@@ -7,3 +7,6 @@
   width: 30%; /* Will shrink image to 30% of its original width */
   height: auto;
 }​
+.carousel-control.left {
+background-image: linear-gradient(to right,rgba(0,0,0,.0001) 100%,rgba(0,0,0,.0001) 100%);
+}
